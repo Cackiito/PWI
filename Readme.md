@@ -1,5 +1,5 @@
 # Github
-Primeiro Projeto usando controle de Versão
+Primeiro Projeto usando controle de Versão.
 
 ![Logo] (https://github.com/favicon.ico)
 
